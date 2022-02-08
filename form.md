@@ -17,15 +17,15 @@
 
 ## Step 3.2:
 
-* Transaction ID for opt-in of account B:7OFER76QDDFTE2XQANL34GWDYGGFGMGGXYWJUHOK4ZJRVB62UM7A
+* Transaction ID for opt-in of account B: 7OFER76QDDFTE2XQANL34GWDYGGFGMGGXYWJUHOK4ZJRVB62UM7A
 
 ## Step 3.3:
 
-* Transaction ID for transfer of asset from A to B:ATYKGZGCZDWM5F3NA5WE6DIYEYSB5PFCOG44WH6JXUIVBZSG3W5A
+* Transaction ID for transfer of asset from A to B: ATYKGZGCZDWM5F3NA5WE6DIYEYSB5PFCOG44WH6JXUIVBZSG3W5A
 
 ## Step 4:
 
-* Transaction ID of the first transaction of the atomic transfer:
+* Transaction ID of the first transaction of the atomic transfer: R7GA6H52T64JQ4NCLPZYIO7PCHUWHD5SQRVDQSETIG3XRVIQEISA
 
 ## Step 5.1:
 
