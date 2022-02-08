@@ -12,8 +12,8 @@
 
 ## Step 3.1:
 
-* Asset ID:
-* Name of the asset: 
+* Asset ID: GQMLK2QVFEYHCVPEQHGRDFK6YMFW7HUU3C5E6ZLTKRPPCC6DGY3A
+* Name of the asset: oobleck
 
 ## Step 3.2:
 
