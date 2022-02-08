@@ -12,7 +12,7 @@
 
 ## Step 3.1:
 
-* Asset ID: GQMLK2QVFEYHCVPEQHGRDFK6YMFW7HUU3C5E6ZLTKRPPCC6DGY3A
+* Asset ID: 69768361
 * Name of the asset: oobleck
 
 ## Step 3.2:
